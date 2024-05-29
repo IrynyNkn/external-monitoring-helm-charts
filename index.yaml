@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-30T00:40:14.977724+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 5863fc54adb8ff5dc2339ae2fc044aff149926b60e1f4410e1de03ce17123428
+    name: helm
+    type: application
+    urls:
+    - https://irynynkn.github.io/external-monitoring-helm-charts/helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-30T00:40:14.976813+03:00"
